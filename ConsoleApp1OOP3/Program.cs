@@ -2,9 +2,15 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            #region Q1
+            //a. composition
+            //b. association
+            //c. inheritance
+            //d. aggregation
+            //e. dependancy
+            #endregion
         }
     }
 }
